@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "Winter (2020) workthrough"
+  navbar: 
+    search: true
+    right:
+      - about.qmd
+format:
+  html:
+    theme: minty
+    css: styles.css
+
+editor: visual
+

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistics for Linguists: an introduction using R",
+    "section": "",
+    "text": "Chapter 00\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 01\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 02\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 03\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 04\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 05\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 06\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 07\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 08\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 09\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 10\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 11\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 12\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 13\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 14\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 15\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\n\n\nChapter 16\n\n\n\n\n\n\n\n\n\n\n\n\nJan 9, 2023\n\n\nMe!\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]
