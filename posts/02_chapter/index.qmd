@@ -1,4 +1,10 @@
 ---
 title: "Chapter 02"
 date: 2023-1-9
+error: true
 ---
+
+```{r}
+library(tidyverse)
+```
+
